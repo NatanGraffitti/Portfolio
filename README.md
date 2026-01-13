@@ -1,8 +1,9 @@
-📌 Portfólio Pessoal – Natan Graffitti
+📌 Portfólio Pessoal 
 
-Este projeto consiste em um site de portfólio pessoal, desenvolvido com HTML, CSS e JavaScript puro, com o objetivo de apresentar informações profissionais, trajetória acadêmica e um formulário de contato funcional com validações no front-end.
+Este projeto consiste em um site de portfólio pessoal, desenvolvido com HTML, CSS e JavaScript, com o objetivo de apresentar informações profissionais, trajetória acadêmica e um formulário de contato funcional com validações no front-end.
 
-O projeto faz parte do processo de aprendizado e prática em desenvolvimento web, seguindo boas práticas de organização, sem uso de frameworks.
+O projeto faz parte do processo de aprendizado e prática em desenvolvimento, seguindo boas práticas de organização, sem uso de frameworks.
+
 
 🧩 Funcionalidades
 
@@ -11,6 +12,7 @@ Página inicial com apresentação pessoal
 Seção “Sobre mim”
 
 Seção institucional sobre a Generation Brasil
+
 
 Página de contato com:
 
@@ -27,6 +29,7 @@ Integração com Google Maps
 Links para redes sociais no rodapé
 
 Layout responsivo básico
+
 
 🛠️ Tecnologias Utilizadas
 
